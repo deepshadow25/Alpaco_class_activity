@@ -1,4 +1,5 @@
-### Hi there 👋
+# SeongYeon Rhee
+
 
 <!--
 **deepshadow25/deepshadow25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
