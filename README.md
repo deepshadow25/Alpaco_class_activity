@@ -2,7 +2,7 @@
 
 for my class activity with Alpaco campus (Oct.6.2022~Apr.6.2023)
 
-## Who Am I?
+## Who Am I? 
 https://github.com/deepshadow25/deepshadow25/blob/main/README.md
 
 ## What I've learned
@@ -11,9 +11,6 @@ https://github.com/deepshadow25/deepshadow25/blob/main/README.md
 - Deep Learning (Neural Networks) : CNN, RNN, Transformer, ASR, TTS...
 - MySQL, AWS, Git and etc
 
-## What I've studing be myself
-- Kotlin (develop Android APPs)
-- 
 
 <!--
 **deepshadow25/deepshadow25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
