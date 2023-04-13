@@ -5,6 +5,8 @@ for my class activity with Alpaco campus (Oct.6.2022~Apr.6.2023)
 ## Who Am I? 
 https://github.com/deepshadow25/deepshadow25/blob/main/README.md
 
+[My Portpolio (Notion)](https://iris-kilometer-1d6.notion.site/SeongYeon-Rhee-f6b0ab8024674ce09852b10a6bd14ba7)
+
 ## What I've learned
 - Python Programming (coding)
 - Machine Learning : Classification , Regression, ...
